@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HAYEON%20WORLD&fontSize=40)
 
-
-- 🔭 I’m currently working on Data Engineering
+<!--
+- 🔭 I’m currently working as an Data Engineer
 - 🌱 I’m currently learning Go for fun!
-
+-->
 ---
 
 ### <p align="center" font="bold">🛠️TECH STACK🛠️</p>
